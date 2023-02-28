@@ -14,5 +14,3 @@ progress.wait_for_completion()
 file = "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 os.system('"' + file + '"' + ' ' + 'onenote.com')
 os.system('"' + file + '"' + ' ' + 'app.hackthebox.com')
-file2 = "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
-os.system('"' + file2 + '"')
