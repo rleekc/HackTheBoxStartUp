@@ -1,0 +1,4 @@
+pypiwin32==223
+pywin32==305
+vboxapi==1.0
+virtualbox==2.1.1
