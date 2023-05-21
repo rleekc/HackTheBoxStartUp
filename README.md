@@ -1,6 +1,8 @@
 # HackTheBoxStartUp
 Script to start necessary programs for using hackthebox
 
+edit the virtualbox VM name
+
 pip install -r requirements.txt
 
 pip install virtualbox
